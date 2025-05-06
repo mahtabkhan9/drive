@@ -1,4 +1,4 @@
-# File Upload and User Authentication App
+# DRIVE - File Upload and User Authentication App
 
 This is a Node.js application that allows users to register, log in, upload files to Cloudinary, view their uploaded files, and download them.
 
